@@ -8,22 +8,13 @@ Agile Practice Guide, PMI
 Agile dönüşüm, 5 Önemli adım, Özdemir E.
 How Allianz Turkey created an agile organization, McKinsey&Company
 
-
-
-
-Konu Paylaşımları 	Sorumlu
-5.1 Kurumsal Değişim Yönetimi	
-
-Yağmur Filizkaya
-
-
-5.2 Organizasyon Kültürü	Rana Bayar
-5.3 Satın Alma ve Sözleşmeler	Çağatay Yamak
+Konu Paylaşımları 			Sorumlu
+5.1 Kurumsal Değişim Yönetimi		Yağmur Filizkaya
+5.2 Organizasyon Kültürü		Rana Bayar
+5.3 Satın Alma ve Sözleşmeler		Çağatay Yamak
 5.4 Destek Birimleri ve Bağımlılıklar	Çağatay Yamak
-5.5  Çevik Yaklaşım ve PMO'lar	Rana Bayar
-5.6 Çevik Organizasyonel Yapılar	
-
-Sema Çetindağ
+5.5  Çevik Yaklaşım ve PMO'lar		Rana Bayar
+5.6 Çevik Organizasyonel Yapılar	Sema Çetindağ
 
 Günümüzde bir çok şirket zamanında yetişmeyen projelerle, Müşteri şikayetleriyle ve pazara yıkıcı inovasyonlarla giren KOBİlerle başa çıkabilmek için çevik yaklaşımlardan medet ummaktadırlar; ancak 2017'de yapılan bir araştırmaya göre çevik yaklaşımın üretkenliği ortalama %7-12 arasında arttırdığı ortaya konulmuştur. Bu durumda aşağıdaki sorular önem kazanmaktadır:
 
@@ -40,67 +31,18 @@ Spesifik bir pazarda hayatta kalma davranışı gerçekleştirebilmek adına hı
 
 Kurumsal değişim yönetimi, müşteri, operasyon ve ürün olmak üzere 3 ana odakta toplanarak örnek tabloda verildiği üzere stratejik önceliklendirme yapılabilir ve gerekçeleri yazılabilir:
 
-Müşteri Odağı
+Müşteri Odağı	 					Operasyon Odağı	 						Ürün Odağı
+Uzun vadeli ilişkiler kurmak				Düşük maliyetli tedarikçi					İnovasyona teşvik etmek
+Müşteri memnuniyetini arttırmak				Operasyonel seviyede üstünlük ve süreç verimliliği		Geliştirme sırasındaki hızı avantaja dönüştürebilmek
+Müşteri isteklerine göre ürünleri kişiselleştirmek	Standartlaştırma						ARGE'de ihtisaslaşma
+Çapraz satış ve gruplama ürünleri			Operasyon maliyeti						Ürün özelliklerinin pazarda ilk olması
+Müşteri kaybını azaltmak				Tahminlenebilirlik						Ürün pazar payı
+-							-								Ürün getirisi
 
-	
-
- Operasyon Odağı
-
-	
-
- Ürün Odağı
-
-
-
-
-Uzun vadeli ilişkiler kurmak
-
-	
-
-Düşük maliyetli tedarikçi
-
-	İnovasyona teşvik etmek
-
-
-Müşteri memnuniyetini arttırmak
-
-	
-
-Operasyonel seviyede üstünlük ve süreç verimliliği
-
-	Geliştirme sırasındaki hızı avantaja dönüştürebilmek
-
-
-Müşteri isteklerine göre ürünleri kişiselleştirmek
-
-	
-
-Standartlaştırma
-
-	ARGE'de ihtisaslaşma
-
-
-Çapraz satış ve gruplama ürünleri
-
-	
-
-Operasyon maliyeti
-
-	Ürün özelliklerinin pazarda ilk olması
-
-
-Müşteri kaybını azaltmak
-
-	Tahminlenebilirlik	Ürün pazar payı
--	
-
- -
-
-	Ürün getirisi
 
 5.1.1. Kurumsal Değişim için Ön Şartlar
 
-Liderleriniz insanları değil de değeri yönetecek şekilde konumlandırıldı mı?         
+	1. Liderleriniz insanları değil de değeri yönetecek şekilde konumlandırıldı mı?         
 
 "Management is efficiency in climbing the ladder of success; leadership determines whether the ladder is leaning against the right wall." —Stephen Covey
 
@@ -201,35 +143,6 @@ Fonksiyonel bölünme, kurallar, standartlar ve hiyerarşik güç aracılığıy
 Merkezi organizasyon yapısının düşük maliyetler, standartlaştırılan işler ve iyi örneklerin (deneyim) paylaşımı gibi birçok faydası vardır. Örneğin, American Productivity & Quality Center (APQC)’a göre kontrol edilebilir üretim maliyeti merkezi üretim organizasyonlarında merkezi olmayan üretim organizasyonlarına oranla %10 daha düşüktür. Fakat diğer taraftan merkezileşme, özellikle var olan iş modelinin yeniden inşa edilmesi gerektiğinde, artan onay katmanı, yavaş karar alma, çalışanların yeni iş modeline uyum sağlamasında önemli organizasyon süreçleri arası hiyerarşik aksama gibi riskleri de beraberinde getirmektedir.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Makine gibi işleyen sistemler bakış açısı ile tasarlanan merkezi organizasyon yapısı aksine merkezi olmayan çevik yapıdaki organizasyonlar yaşayan organizmalar gibidir. Çevik organizasyon yapıları esnekliği ve işbirliği yapmayı vurgulayan bir yönetim yaklaşımıdır. Bu organizasyonlarda takımlar proje çevresinde organize olmaktadır ve takım üyeleri arasında yüksek çapraz fonksiyonel işbirlikleri vardır.
 
 Aynı hedefe yönelik birlikte çalışan birimler vardır.
@@ -239,160 +152,20 @@ Birbirleri arasında etkileşim içerisinde olan çok katmanlı ağ yapısına s
 5.7. Karmaşıklığa Dayanıklı Organizasyon için 12 Tasarım Prensibi (BetaCodex)
 
  
+ 							Beta (Çevik, Ağ Yapılı Organizasyonlar)			Alfa (Hiyerarşik Merkezi Yapılı Organizasyonlar)
+Takım Yapısı						Anlamlı Bağlantı					Bağımlı olma
+Özerklik						Birimlerle bütünleşme					Silolara ayrılma
+Liderlikler						Kendi kendine organize olma				Yönetme
+Her Yönden Başarı					Kapsamlı uygunluk					Tek taraflı büyüme
+Akış							Süreklilik 						Güçle engelleme
+Pazar Stratejisi					Görece hedefler						Yukarıdan aşağıya buyruk
+Kazanç Stratejisi					Pay verme						Teşvik verme
+Esneklik						Değişikliklere Hazır olma				Baştan Planlama
+Ritim							Ölçülü ve çevik						Mali yıla göre
+Karar Mekanizması					Sonuç Odaklı						Bürokratik Karar
+Kaynak Kullanımı					Uygunluğa göre						Statüye göre
 
 	
-
-Beta (Çevik, Ağ Yapılı Organizasyonlar)
-
-	
-
-Alfa (Hiyerarşik, Merkezi Yapılı Organizasyonlar)
-
-
-
-
-Takım Yapısı
-
-	
-
-Anlamlı Bağlantı
-
-	
-
-Bağımlı olma
-
-
-
-
-Özerklik
-
-	
-
-Birimlerle bütünleşme
-
-	
-
-Silolara ayrılma
-
-
-
-
-Liderlikler
-
-	
-
-Kendi kendine organize olma
-
-	
-
-Yönetme
-
-
-
-
-Her Yönden Başarı
-
-	
-
-Kapsamlı uygunluk
-
-	
-
-Tek taraflı büyüme
-
-
-
-
-Akış
-
-	
-
-Süreklilik 
-
-	
-
-Güçle engelleme
-
-
-
-
-Pazar Stratejisi
-
-	
-
-Görece hedefler
-
-	
-
-Yukarıdan aşağıya buyruk
-
-
-
-
-Kazanç Stratejisi
-
-	
-
-Pay verme
-
-	
-
-Teşvik verme
-
-
-
-
-Esneklik
-
-	
-
-Değişikliklere Hazır olma
-
-	
-
-Baştan Planlama
-
-
-
-
-Ritim
-
-	
-
-Ölçülü ve çevik
-
-	
-
-Mali yıla göre
-
-
-
-
-Karar Mekanizması
-
-	
-
-Sonuç Odaklı
-
-	
-
-Bürokratik Karar
-
-
-
-
-Kaynak Kullanımı
-
-	
-
-Uygunluğa göre
-
-	
-
-Statüye göre
-
-
-
 
 5.8. Çevik Organizasyonel Yapılar/ Allianz Türkiye Çevik Organizasyon Oluşturma Hikayesi
 
